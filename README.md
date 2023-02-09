@@ -56,7 +56,7 @@ http://127.0.0.1:9991/
 
 ## 3.查杀情况
 
-![image-20230209155012820](https://note-1301783483.cos.ap-nanjing.myqcloud.com/image/image-20230209155012820.png)
+![image-20230209160108613](https://note-1301783483.cos.ap-nanjing.myqcloud.com/image/image-20230209160108613.png)
 
 ## 4.免责声明🧐
 
